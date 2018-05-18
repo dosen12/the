@@ -4,4 +4,7 @@ int main()
 {
   printf("first version");
   printf("second version");
+  printf("thrid version");
+
+  return 0;
 }
